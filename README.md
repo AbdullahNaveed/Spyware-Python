@@ -13,7 +13,7 @@
   </ol>
 </details>
 
-<!-- DISCLAIMER -->
+<!-- DISCLAIMER! -->
 ## Disclaimer!
 
 This software is made for educational purposes only, I am not responsible for any kind of harm caused by this software!
