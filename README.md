@@ -4,8 +4,8 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a></li>
+    <li><a href="#Disclaimer!">Disclaimer!</a></li>
+    <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#license">License</a></li>
@@ -13,10 +13,18 @@
   </ol>
 </details>
 
+<!-- DISCLAIMER -->
+## Disclaimer!
+
+This software is made for educational purposes only, I am not responsible for any kind of harm caused by this software!
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This spyware can exploit victim's webcam and screen
+This Spyware offers:
+  1. Webcam Access
+  2. Screen Recording
+  3. KeyLogging
     
 Files include:
 
