@@ -39,6 +39,7 @@ Files include:
 * Python3
 * pyautogui
 * OpenCV
+* pynput
 
 <!-- LICENSE -->
 ## License
