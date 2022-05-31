@@ -1,4 +1,4 @@
-# Spyware-Python## Spyware in Python
+# Spyware-Python
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
